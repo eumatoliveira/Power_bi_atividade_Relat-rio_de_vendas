@@ -1,0 +1,26 @@
+Country,Segment,Sales,Units Sold,Profit
+USA,Consumer,3796,4811,10667
+Canada,Corporate,3532,572,13143
+Mexico,Home Office,14869,1975,4182
+Brazil,Consumer,37636,3506,11102
+Argentina,Corporate,23690,753,1890
+Germany,Home Office,40177,1444,1733
+France,Consumer,39010,716,5576
+UK,Corporate,9443,116,9245
+Spain,Home Office,46966,3977,8575
+Italy,Consumer,25093,2126,12848
+Japan,Corporate,33001,3732,10147
+China,Home Office,1453,676,12421
+India,Consumer,22819,1532,328
+Australia,Corporate,38047,4185,13577
+South Africa,Home Office,42659,3200,12133
+USA,Corporate,35699,3249,9164
+Canada,Home Office,33964,1230,2864
+Mexico,Consumer,5044,2827,12426
+Brazil,Corporate,22689,3254,4294
+Germany,Home Office,32641,1506,1955
+France,Consumer,48009,3246,4522
+Japan,Corporate,30103,3193,6687
+China,Home Office,28470,1446,6812
+India,Consumer,46041,4045,3736
+Australia,Corporate,8514,3146,2789
